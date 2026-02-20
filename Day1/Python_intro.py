@@ -1,4 +1,14 @@
-# Introduction 
+# Introduction
+ 
+
+# software development life cycle 
+# analysis 
+# design 
+# development 
+# testing
+# deployment 
+# maintenance
+  
 
 # Installations 
 
@@ -13,7 +23,6 @@
 
 # Full stack 
 # user---> Frontend ----? Backend ----> Database 
-
 
 # Frontend 
 # Html 

@@ -7,6 +7,12 @@
 
 print("step3")
 
+
+print("step1")
+
+
+print("step2")
+
 # python does : 
 
 # reads the source code (.py)
