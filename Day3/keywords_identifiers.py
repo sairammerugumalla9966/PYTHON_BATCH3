@@ -1,3 +1,5 @@
+
+
 # keyword ??
 # they are reserved words in python with special meaning , they can not be used as identifiers
 
@@ -16,10 +18,18 @@
     # can not start with digits , can not use keywords as identifiers 
     # case sensitive 
 
-name = "sairam"
+user_name = "sairam"
+
 Name="keerthi"
+
+_8sai90=8985
+
+
+NAME ="NAVEEN"
 print(Name)
 
 f="kerthi"
+
+
 
 

@@ -7,10 +7,12 @@
 # float : decimal numbers 
 # complex : 3+4j (imaginary numbers)
 
+a="python"
 # sequence datatype : string , list , tuple, range
 
 # string : all the text (group of characters) ' ' or " " or ''' '''
 # supporst indexes 
+# mutable 
 
 
 # list : ordered collection of data 
@@ -19,6 +21,9 @@
         # allows duplicates
         # mutable means it can be changed (it will not create new objects) 
         # indexes 
+
+name="sairam"
+name="navven"
 
 l=[1,2,3,4,5,5,"sairam",99.9]
 print(l)
@@ -32,7 +37,7 @@ print(l[-1])
         #allows duplictes 
         # indexes
 
-t=("sairam", 'keerthi','python', 66,789896,7674.86)
+t=("sairam", 'keerthi','python', 66,7674.86)
 print(t)
 print(type(t))
 
@@ -41,13 +46,14 @@ print(type(t))
 # range(start, stop , step)
 
 # default start value : 0
-# default stop value : end of the range
+# default stop value : end of the range (n-1)
 # default step value : 1
 
-
+# for i in range(0,5):
+        
 # boolen data type : True or False 
 
-# Dictionary : stores the values in form of key value pairs 
+# Dictionary : stores the values in form of key value pairs  (mapping datatype)
 # ordered 
 # mutable
 # keys unique 
@@ -83,3 +89,10 @@ print(l1[0][2])
 
 
 # git clone "http link"
+
+s={1,1,2,2,3,4,3,4,45,5,6,6}
+print(s)
+
+
+l=[1,2,3,4,5,5,"sairam",99.9,99.9]
+print(set(l))

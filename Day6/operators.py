@@ -9,16 +9,16 @@
 
 print(10/2) # 5.0 (Q)
 
-print(10//2) # 5
+print(10//2) # 5 (Q)
 
 print(10/3) # 3.333333333
 
-print(10//3) # (Q) 
+print(10//3) # (Q) #3
 
 
-print(9%3) # (R) 
+print(9%3) # (R) 0
 
-print(3**3)
+print(3**3) # 27
 
 
 # comparision operators : compare two values  
@@ -33,9 +33,10 @@ print(12<=10)  # False
 
 # = , += ,-= ,*= ,/= ,//= ,%= ,**=
 
-x = 10
+x = 20
 
-x +=10
+x +=10  # x=x+10
+
 
 
 # logical operators (boolean output)
@@ -47,7 +48,7 @@ x +=10
 # not : if True then it will False and vice versaa 
 
 
-# memebership operators : 
+# memebership operators : (boolean output)
 
 # in , not in 
 

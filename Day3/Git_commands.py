@@ -42,11 +42,11 @@
 
 
 # created repository / project in GitHub ----> open the project ---> copy HTTPS link
-# git clone "https link"
+# git clone "https://github.com/sairammerugumalla9966/PYTHON_BATCH3.git"
 
 
 #git remote remove origin
 # git remote -v
-# git remote add origin https://github.com/Rammerugumalla/PYTHON_BATCH3.git 
+# git remote add origin https://github.com/sairammerugumalla9966/PYTHON_BATCH3.git
 
 

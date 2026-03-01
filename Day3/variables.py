@@ -10,7 +10,7 @@ print(a)
 
 # dynamic programing 
 
-a,b,c,d=1,2,3,4
+a,c,b,d=11,12,13,14
 print(a)
 print(b)
 print(c)
@@ -32,6 +32,7 @@ name='kerthi'
 
 descrption =''' kjdoiqohdjqjkbanlc ka cmnjhc ouhajc,n k ch;ahocd
 hi! keerthi 
+hi naveen 
 '''
 print(descrption)
 

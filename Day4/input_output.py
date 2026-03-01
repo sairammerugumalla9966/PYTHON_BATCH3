@@ -33,4 +33,15 @@ print(age)
 print(10/2) 
 print(type(10/2)) # automatically converts tha int datatype to float 
 
+
+
 # type conversion --->> user is converting the datatype 
+
+num1=input("enter any number : ") # it will take the input as strings by default 
+num2=input("enter any number : ")
+
+print(type(num1))
+print(type(num1))
+
+#result = num1 + num2
+#print(result)
