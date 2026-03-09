@@ -52,7 +52,6 @@ add2=addition()
 print(add2)
 
 
-
 # functions with parameters 
 
 #def function_name(parmeters):
@@ -66,7 +65,72 @@ print(add2)
 def addition1(num1, num2):
     return num1 + num2
 
-
 print(addition1(70,30))
+
+
+# claculate the grade 
+'''
+marks >= 90 ---> A 
+marks >80 ---> B
+marks >70 ---> c
+marks >60 ---> passs
+marks <60 ---> fail
+'''
+
+def get_grade(marks):
+
+    if marks >=90:
+        return "A GRADE"
+
+    elif marks >=80:
+        return "B GRADE"
+    
+    elif marks >=70:
+        return "C GRADE"
+    
+    elif marks >=60:
+       return "passs"
+
+    else :
+        return "Fail"
+    
+print(get_grade(90))   
+
+print(get_grade(65)) 
+
+
+
+
+def user_login(username, password):
+
+    if username=="sairam" and password==12345:
+        return "Login successful"
+    
+    return "invalid details"
+
+
+print(user_login("Rocky",12345))
+
+print(user_login("sairam",12345))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
