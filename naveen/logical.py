@@ -1,0 +1,5 @@
+a=int(input("enter first number:"))
+b=int(input("enter second number:"))
+print("if both conditions are true:",a>0 and b>0)
+print("if one condition is true:",a>0 or b>0)
+print("if True then it will False:",not (a>b))
