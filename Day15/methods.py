@@ -55,6 +55,6 @@ class Static_method:
 
 Static_method.Timepass()
 
-
+# hackerrank -- 2hrs 
 
 
