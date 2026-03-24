@@ -1,6 +1,5 @@
-import math
 radius = float(input("Enter Radius of Circle:"))
-area = math.pi*radius*radius
+area = pi*radius*radius
 print(area) 
 
 originalprice = float(input("Enter the Original Price:"))
@@ -9,7 +8,7 @@ discountamount = (originalprice * discountpercentage)/100
 finalprice = originalprice - discountamount
 print(finalprice) 
 
-incipal=float(input("Enter principal amount:"))
+principal=float(input("Enter principal amount:"))
 rate=float(input("Enter rate of interest:"))
 time=float(input("Enter time (years):"))
 simpleinterest = principal*rate*time/100
